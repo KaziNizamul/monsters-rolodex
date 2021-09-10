@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap");
+
+body {
+  background: linear-gradient(
+    to left,
+    rgba(7, 27, 82, 1) 0%,
+    rgba(0, 128, 128, 1) 100%
+  );
+}
+.App {
+  text-align: center;
+}
+
+#title {
+  font-family: "Bigelow Rules";
+  color: #0ccac4;
+  font-size: 72px;
+}
